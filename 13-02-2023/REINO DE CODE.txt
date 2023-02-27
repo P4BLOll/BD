@@ -1,0 +1,9 @@
+1 - A ineficiência causada pela duplicação de dados, causando erros ao atualizar e compartilhar informações
+ 
+2 - O Banco de Dados, apesar de muito eficiente, possui alguns problemas, como perca de dados, informações conflitantes e entre outros. o SGBD, além de ter as mesmas funções, ele resolve os problemas do Banco de Dados. 
+
+3 - O SGBD. Além de trazer a eficiênia do Banco de Dados, ele irá resolver a maioria dos problemas que poderiam acontecer com a utilização do Banco de Dados. 
+
+4 - As informações de mercado do reino, como preços, quantidades e datas de vendas. Em geral, lidaria com a economia do reino. 
+
+5 - A alteração de informações que poderiam causar algum conflito entre os usuários, a obtenção de informações que dizem respeito a apenas usuários específicos.      
